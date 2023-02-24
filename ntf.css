@@ -20,7 +20,7 @@ body {
 }
 
 .container .crd {
-  width: 300px;
+  width: 400px;
   margin-left: auto;
   margin-right: auto;
   padding: 20px;
@@ -33,8 +33,8 @@ body {
 }
 
 .crd .overlay {
-  width: 300px;
-  height: 300px;
+  width: 400px;
+  height: 400px;
   position: absolute;
 }
 
